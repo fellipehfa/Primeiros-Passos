@@ -1,2 +1,2 @@
-# Primeiros Passos
- Aprendendo a criar repositórios
+# Primeiros Passos!
+ Aprendendo a criar repositórios com Git e GitHub
